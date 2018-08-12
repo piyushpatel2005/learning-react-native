@@ -1,3 +1,14 @@
 {
-    "git.ignoreLimitWarning": true
+  "git.ignoreLimitWarning": true,
+  "prettier.printWidth": 80,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.bracketSpacing": true,
+  "prettier.jsxBracketSameLine": false,
+  "prettier.parser": "flow",
+  "prettier.semi": true,
+  "prettier.useTabs": false,
+  "prettier.trailingComma": true,
+  "autoimport.semicolon": true,
+  "editor.formatOnSave": true
 }
