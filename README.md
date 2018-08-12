@@ -32,7 +32,7 @@ cd TargetSum/
 react-native run-android
 # Copy .eslintrc.js file
 # Install
-npm i -D eslint babel-eslint eslint-plugin-react
+npm i -g eslint babel-eslint eslint-plugin-react
 ```
 
 Install prettier-vs code and update User settings by visiting File -> Preferences -> Settings
@@ -55,3 +55,5 @@ and paste:
   "editor.formatOnSave": true
 }
 ```
+
+`npm install -g react-devtools`
